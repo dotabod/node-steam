@@ -13,7 +13,7 @@
     "buffer-crc32": "^0.2",
     "bytebuffer": "^5.0",
     "steam-crypto": "^0.0",
-    "steam-resources": "github:dotabod/node-steam-resources"
+    "steam-resources": "github:odota/node-steam-resources"
   },
   "engines": {
     "node": ">=4.1.1"
