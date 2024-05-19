@@ -6,7 +6,7 @@
   "main": "./lib/steam_client",
   "repository": {
     "type": "git",
-    "url": "https://github.com/seishun/node-steam.git"
+    "url": "https://github.com/dotabod/node-steam.git"
   },
   "dependencies": {
     "adm-zip": "^0.4",
